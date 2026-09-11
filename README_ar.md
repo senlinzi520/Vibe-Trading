@@ -470,7 +470,7 @@ LONGBRIDGE_ACCESS_TOKEN=...
 
 **البيانات المجانية هي الافتراضي، والمدفوعة عند الحاجة.** تبقى المصادر الـ23 المدمجة مجانية مع تراجع ذكي بحسب خطر الحظر، بلا مفتاح ولا تكلفة. عبر QVeris يفتح مفتاح واحد 63+ مزوداً و10,000+ capabilities (per QVeris) للـ options Greeks، والأساسيات المتقدمة، وبيانات الصين/هونغ كونغ/العالم، والماكرو، والكريبتو، والأخبار، والـ filings؛ ولا تُحتسب المكالمات الفاشلة. فعّله من Settings → QVeris أو `vibe-trading data mode paid`.
 
-*QVeris disclosure: التسجيل عبر [رابط إحالة Vibe-Trading](https://qveris.ai/?ref=Vyjjo5G_1cAHJA) يمنحك **+1,000 رصيداً** إضافياً ويدعم المشروع.*
+*QVeris disclosure: التسجيل عبر [رابط إحالة Vibe-Trading](https://qveris.ai/) يمنحك **+1,000 رصيداً** إضافياً ويدعم المشروع.*
 <!-- QVERIS-END -->
 
 ---

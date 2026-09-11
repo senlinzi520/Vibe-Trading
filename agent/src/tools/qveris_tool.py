@@ -18,7 +18,7 @@ import httpx
 
 from src.agent.tools import BaseTool
 
-SIGNUP_URL = "https://qveris.ai/?ref=Vyjjo5G_1cAHJA"
+SIGNUP_URL = "https://qveris.ai/"
 INVITE_CODE = "Vyjjo5G_1cAHJA"
 DEFAULT_BASE_URL = "https://qveris.ai/api/v1"
 QVERIS_CONFIG_PATH = Path.home() / ".vibe-trading" / "qveris.json"

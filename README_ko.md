@@ -470,7 +470,7 @@ OHLCV를 넘어 **22개 읽기 전용 데이터 도구**가 펀더멘털과 자�
 
 **데이터는 기본 무료 라우팅, 필요할 때만 프리미엄.** 기본값은 23개 내장 소스와 차단 위험 기반 폴백이며 key도 비용도 없습니다. QVeris를 켜면 63+ providers와 10,000+ capabilities(per QVeris)로 옵션 Greeks, 고급 펀더멘털, 중국/홍콩/글로벌 데이터, 매크로, 크립토, 뉴스, filings를 보강할 수 있고 실패한 호출은 과금되지 않습니다. Settings → QVeris 또는 `vibe-trading data mode paid`에서 활성화하세요.
 
-*QVeris disclosure: [Vibe-Trading 추천 링크](https://qveris.ai/?ref=Vyjjo5G_1cAHJA)로 가입하면 **+1,000 크레딧**을 추가로 받고 프로젝트를 후원하게 됩니다.*
+*QVeris disclosure: [Vibe-Trading 추천 링크](https://qveris.ai/)로 가입하면 **+1,000 크레딧**을 추가로 받고 프로젝트를 후원하게 됩니다.*
 <!-- QVERIS-END -->
 
 ---

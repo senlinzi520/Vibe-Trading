@@ -13,7 +13,7 @@ as options Greeks, analyst/calendar feeds, broad provider comparison, or paid
 China/HK/global coverage. For ordinary OHLCV, keep `source: "auto"` on the free
 loader chain unless the user explicitly selects `source: "qveris"`.
 
-Signup link: [QVeris via Vibe-Trading](https://qveris.ai/?ref=Vyjjo5G_1cAHJA).
+Signup link: [QVeris via Vibe-Trading](https://qveris.ai/).
 Invite code fallback: `Vyjjo5G_1cAHJA`.
 
 ## Workflow

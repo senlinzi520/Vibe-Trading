@@ -469,7 +469,7 @@ Más allá del OHLCV, **22 herramientas de datos de solo lectura** alcanzan fund
 
 **Datos: enrutamiento gratuito o premium, tú decides.** Lo gratuito sigue siendo el valor por defecto: 23 fuentes integradas con fallback por riesgo de bloqueo, sin clave, sin costo. Lo premium mediante QVeris añade más de 10.000 capacidades (según QVeris) en 63+ proveedores para Greeks de opciones, fundamentales premium, datos de China/HK/globales, macro, cripto, noticias y presentaciones regulatorias; las llamadas fallidas no se cobran. Actívalo en Settings -> QVeris o con `vibe-trading data mode paid`.
 
-*Aviso de QVeris: [registrarte a través del enlace de referido de Vibe-Trading](https://qveris.ai/?ref=Vyjjo5G_1cAHJA) te da **+1.000 créditos de bonificación** y apoya el proyecto.*
+*Aviso de QVeris: [registrarte a través del enlace de referido de Vibe-Trading](https://qveris.ai/) te da **+1.000 créditos de bonificación** y apoya el proyecto.*
 <!-- QVERIS-END -->
 
 ---

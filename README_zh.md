@@ -485,7 +485,7 @@ LONGBRIDGE_ACCESS_TOKEN=...
 
 **数据可走免费，也可按需上付费。** 默认仍是 23 个内置免费源：自动 fallback、无需 key、无成本。通过 QVeris 可用一个 key 解锁 63+ provider、10,000+ capabilities（per QVeris），覆盖期权 Greeks、高级基本面、中国/港股/全球数据、宏观、加密、新闻与 filings；失败调用不扣费。入口在 Settings → QVeris 或 `vibe-trading data mode paid`。
 
-*QVeris 披露：通过 [Vibe-Trading 推荐链接](https://qveris.ai/?ref=Vyjjo5G_1cAHJA) 注册可额外获得 **1,000 积分**，同时支持本项目。*
+*QVeris 披露：通过 [Vibe-Trading 推荐链接](https://qveris.ai/) 注册可额外获得 **1,000 积分**，同时支持本项目。*
 <!-- QVERIS-END -->
 
 ---

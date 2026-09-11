@@ -507,7 +507,7 @@ Beyond OHLCV, **22 read-only data tools** reach into fundamentals & flow — fun
 
 **Data: free routing or premium, your choice.** Free stays the default: 23 built-in sources with ban-risk fallback, no key, no cost. Premium via QVeris adds 10,000+ capabilities (per QVeris) across 63+ providers for options Greeks, premium fundamentals, China/HK/global data, macro, crypto, news, and filings; failed calls are not charged. Enable it in Settings -> QVeris or `vibe-trading data mode paid`.
 
-*QVeris disclosure: [signing up through the Vibe-Trading referral link](https://qveris.ai/?ref=Vyjjo5G_1cAHJA) gets you **+1,000 bonus credits** and supports the project.*
+*QVeris disclosure: [signing up through the Vibe-Trading referral link](https://qveris.ai/) gets you **+1,000 bonus credits** and supports the project.*
 <!-- QVERIS-END -->
 
 ---

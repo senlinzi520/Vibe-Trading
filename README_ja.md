@@ -470,7 +470,7 @@ OHLCV にとどまらず、**22 の読み取り専用データツール**がフ�
 
 **データは無料ルーティングが標準、必要なときだけプレミアム。** 既定では 23 の内蔵ソースが自動フォールバックし、key も費用も不要です。QVeris を使うと、63+ providers と 10,000+ capabilities（per QVeris）で、オプション Greeks、高度なファンダメンタルズ、中国・香港・グローバルデータ、マクロ、暗号資産、ニュース、filings を補えます。失敗した call は課金されません。Settings → QVeris または `vibe-trading data mode paid` で有効化できます。
 
-*QVeris disclosure: [Vibe-Trading の紹介リンク](https://qveris.ai/?ref=Vyjjo5G_1cAHJA) から登録すると **+1,000 クレジット** が追加付与され、プロジェクトの支援にもなります。*
+*QVeris disclosure: [Vibe-Trading の紹介リンク](https://qveris.ai/) から登録すると **+1,000 クレジット** が追加付与され、プロジェクトの支援にもなります。*
 <!-- QVERIS-END -->
 
 ---
